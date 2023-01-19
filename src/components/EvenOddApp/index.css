@@ -1,0 +1,24 @@
+.card {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  height: 100vh;
+}
+
+.para {
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+}
+.note {
+  font-size: 10px;
+  font-family: 'Roboto';
+  padding-top: 20px;
+}
+.button {
+  width: 150px;
+}
